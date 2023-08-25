@@ -1,0 +1,32 @@
+# Ignore Visual Studio files
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore compiled output and intermediate files
+*/bin/
+*/obj/
+
+# Ignore NuGet packages
+/packages/
+
+# Ignore ReSharper and Rider specific files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+
+# Ignore user-specific files
+*.rsuser
+
+# Ignore ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Ignore .NET Sdk
+.project.assets.json
+
+# Ignore Visual Studio config
+.vsconfig
+
+.vs
+*.zip
